@@ -1,6 +1,12 @@
-# Compiladores 
+# DISCIPLINA: COMPILADORES
 
-# EMENTA DO CURSO - PLANO DE ENSINO
+## TURMA: 0028432 
+
+## SEMESTRE: 20181
+
+### PROFESSOR: [RAFAEL TEIXEIRA DE ARAUJO](http://lattes.cnpq.br/5847892628096217)
+
+### Plano de Ensino
 
 - Apresentação da ementa. Introdução a compiladores	
 - Compilação e interpretação
