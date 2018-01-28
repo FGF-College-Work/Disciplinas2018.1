@@ -4,9 +4,9 @@
 
 ## SEMESTRE: 20181
 
-## PROFESSOR: HITALO JOSEFERSON BATISTA NASCIMENTO
+## PROFESSOR: [HITALO JOSEFERSON BATISTA NASCIMENTO](http://lattes.cnpq.br/1394533601368499)
 
-# Plano de Ensino 
+### Plano de Ensino 
 
 - Apresentação da disciplina e discussão sobre a feira tecnológica
 - NTRODUÇÃO À COMPUTAÇÃO GRÁFICA (Origens, Conceitos, Áreas relacionadas, Aplicações, Hardware Gráfico).
