@@ -9,3 +9,4 @@
 - [Plano de Ensino](Plano_de_Ensino.md) 
 - [Temas para Feira Tecnológica](Tema_Feira_Tecnologica.md)
 - [Material Complementar](material_complementar.md)
+- [Ementa Curricular](ementa.md)
