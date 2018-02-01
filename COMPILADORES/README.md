@@ -8,4 +8,5 @@
 
 - [Plano de Ensino](Plano_de_Ensino.md)
 - [Material Complementar](MaterialComplementar.md)
+- [Ementa Curricular](ementa.md)
 
