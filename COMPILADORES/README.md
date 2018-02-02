@@ -1,4 +1,8 @@
-# DISCIPLINA: COMPILADORES
+<p align="center">
+<img src="http://www.fgf.edu.br/wp-content/themes/fgf-28-05-2013_RESPONSIVO/images/fgf-faculdade-integrada-da-grande-fortaleza.png">
+</p>
+<h1 align="center">DISCIPLINA: COMPILADORES</h1>
+
 
 ## TURMA: 0028432 
 
