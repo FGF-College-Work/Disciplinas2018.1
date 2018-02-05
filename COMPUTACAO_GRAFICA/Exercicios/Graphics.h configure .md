@@ -1,4 +1,4 @@
-##Graphics configure for code::blocks
+## Graphics configure for code::blocks
 01. First download WinBGIm GCC47 file from [here.](https://github.com/tanvir002700/Blog-post/blob/master/WinBGIm_GCC47.zip?raw=true)
 02. unzip the WinBGIm_GCC47.zip
 03. open "graphics.h" file. and replace 302 line with "int left=0, int top=0, int right=INT_MAX, int bottom=INT_MAX," line.
@@ -25,3 +25,6 @@ int main()
 ```
 
 *If everything is ok and show a straight line. Then congratulation you have done this. :P :P :P
+
+Link para download do DevC++
+<https://www.dropbox.com/s/pq7sc1mivt2on8m/Dev-Cpp%205.2.0.3%20MinGW32%20Portable.rar?dl=0>
