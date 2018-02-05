@@ -12,3 +12,4 @@
 
 - [Ementa Curricular](ementa_curricular.md)
 - [Temas para XI Feira Tecnologica FGF](temas.md)
+- [Ementa Curricular](ementa.md)
