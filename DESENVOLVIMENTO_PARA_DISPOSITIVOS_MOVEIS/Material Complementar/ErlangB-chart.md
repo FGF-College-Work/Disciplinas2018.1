@@ -2,4 +2,6 @@
 
 [Erlang B](http://www.wirelesscommunication.nl/reference/chaptr04/erlang/erlangb.htm)
 
+http://www2.ee.ufpe.br/codec/engenharia_telecomunicacoes.pdf
+
 ![](http://slideplayer.com/slide/5232938/16/images/27/Erlang+B+Chart+Z.+Ghassemlooy.jpg)
