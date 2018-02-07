@@ -9,12 +9,15 @@ w = {010, 01110, 001101, ...}
 ![](exercicio2.jpg)
 
 - Gramatica gerada :
+```
 
 <q0> ::= 1<q1>
 <q0> ::= 0<q0>
 <q1> ::= 1<q0>
 <q1> ::= 0<q1>
 <q1> ::= :no_entry_sign:
+
+```
 
 - Expressão gerada :
 
