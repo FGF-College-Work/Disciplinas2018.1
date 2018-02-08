@@ -1,6 +1,8 @@
 # Aulas 
 
-\beta
+```math #yourmathlabel
+a + b = c
+```
 
 
 
