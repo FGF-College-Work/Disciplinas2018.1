@@ -6,7 +6,6 @@
 
 w = {010, 01110, 001101, ...}
 
-![](exercicio2.jpg)
 
 - Gramatica gerada :
 ```
@@ -25,4 +24,6 @@ w = {010, 01110, 001101, ...}
 (0*1)(0+10*1)*
 
 ```
+- DIAGRAMA 
 
+![](exercicio2.jpg)
