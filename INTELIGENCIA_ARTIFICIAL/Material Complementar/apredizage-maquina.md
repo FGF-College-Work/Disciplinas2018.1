@@ -212,5 +212,6 @@ Em resumo, estes foram:
 
 Estes são os conceitos básicos abordados na introdução da maioria dos cursos de aprendizagem de máquinas e nos capítulos iniciais de qualquer bom livro de texto sobre o assunto.
 
+[BIGDATA](http://bigdata.black/analytics-predictions/machine-learning/basic-concepts-machine-learning-algorithms/)
 
 
