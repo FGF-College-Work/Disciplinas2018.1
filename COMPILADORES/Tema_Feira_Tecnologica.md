@@ -7,4 +7,4 @@
 - Compilação de Rust interpretação 
 - Compilação de Python
 - Comparação ente C# e Java: Tempo de interpretação
-- Comparação de tempo entre Pascal e C
+- Comparação de tempo de compilação entre Pascal e C
